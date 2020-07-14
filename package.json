@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "path-test": "jest ./path/*"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
